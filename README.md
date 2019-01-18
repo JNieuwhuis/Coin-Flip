@@ -15,7 +15,7 @@ Heads or tails? tails
 Incorrect!
 ```
 
-Learning goals
-Conditional statements
-Input and ouput
-Randomisation
+Learning goals:
+- Conditional statements
+- Input and ouput
+- Randomisation
